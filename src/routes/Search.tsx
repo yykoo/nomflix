@@ -6,4 +6,5 @@ function Search() {
     console.log(keyword);
     return null;
   }
-  export default Search;
+  
+export default Search;
